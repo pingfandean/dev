@@ -1,0 +1,8 @@
+配置 init.gradle 文件
+2.1 找到 init.gradle 文件位置
+在 Android Studio 中，我们可以通过以下步骤找到 init.gradle 文件的位置：
+
+打开 Android Studio。
+选择 “File” 菜单，点击 “Settings”。
+在 “Settings” 窗口中，选择 “Build, Execution, Deployment” -> “Gradle”。
+在右侧的 “Gradle” 面板中，找到 “Gradle user home” 一栏，这里显示了 Gradle 配置的存储路径。
